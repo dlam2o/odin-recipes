@@ -1,0 +1,29 @@
+.font {
+    color: rgb(22, 119, 13);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    border-style: groove;
+    border-style: solid;
+    border-radius: 10px;
+    text-align:center;
+}
+
+.color.ingredients {
+    color: rgb(30, 156, 51);
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.color {
+    color:green
+}
+
+
+ol li {
+    color: green;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
